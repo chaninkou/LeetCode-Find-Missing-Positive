@@ -15,6 +15,7 @@ public class FindFirstPositive {
 
 		i = 0;
 
+		// Find first smallest number
 		while (i < A.length && A[i] == i + 1) {
 			i++;
 		}
