@@ -20,6 +20,7 @@ public class FindFirstPositive {
 			i++;
 		}
 
+		// Since first positive integer is 1
 		return i + 1;
 	}
 
